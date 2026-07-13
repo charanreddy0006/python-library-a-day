@@ -1,0 +1,24 @@
+========================================
+EMPLOYEE ATTENDANCE REPORT
+========================================
+
+Alice
+Working Hours : 9.08
+Status        : Late
+----------------------------------------
+Bob
+Working Hours : 8.75
+Status        : On Time
+----------------------------------------
+Charlie
+Working Hours : 8.5
+Status        : Late
+----------------------------------------
+David
+Working Hours : 8.92
+Status        : On Time
+----------------------------------------
+Emma
+Working Hours : 8.92
+Status        : Late
+----------------------------------------
